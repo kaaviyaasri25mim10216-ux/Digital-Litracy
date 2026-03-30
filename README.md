@@ -83,7 +83,7 @@ Set up professional profiles on three platforms:
 | Platform | Purpose | Profile Link |
 |----------|---------|--------------|
 | **GitHub** | Code hosting, open source, project showcase (https://github.com/kaaviyaasri25mim10216-ux) |
-| **LinkedIn** | Professional networking, internships, jobs | 
+| **LinkedIn** | Professional networking, internships, jobs (https://www.linkedin.com/in/kaaviyaasri-d-5053943bb) | 
 | **Kaggle** | Data science practice, competitions, notebooks | 
 
 📄 [View Screenshots →] (task-2-portfolio/)
